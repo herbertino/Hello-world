@@ -2,7 +2,7 @@
 My first repository as an intern with HNG, I'm looking forward to learning new things
 
 
-This is the first time i am coming across GITHUB. So fat it's not been easy. 
+This is the first time i am coming across GITHUB. So far it's not been easy. 
 All of this seems new to me. 
 At first it felt like i had no idea what i was doing. 
 Honestly speaking, am not sure i have an idea what am doing. 
